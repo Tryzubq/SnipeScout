@@ -1,5 +1,4 @@
 # SnipeScout
-# SnipeScout
 
 A self-hosted second-hand deal sniper. It watches **2dehands, Marktplaats, Vinted and Facebook Marketplace** around the clock and pushes new listings to **Telegram** the moment they appear, with photo, price, bargain score and a direct link.
 
